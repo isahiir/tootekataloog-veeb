@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lisa Tooteid</title>
+    <link rel="stylesheet" href="style.css"> </head>
+<body>
+    <h1>Lisa uus toode</h1>
+
+    <form id="productForm">
+        <div>
+            <label for="productGroup">Tootegrupp:</label>
+            <input type="text" id="productGroup" name="productGroup" required>
+        </div>
+        <div>
+            <label for="product">Toote nimi:</label>
+            <input type="text" id="product" name="product" required>
+        </div>
+        <button type="submit">Salvesta</button>
+    </form>
+
+    <div id="responseMessage"></div> <script src="script.js"></script> </body>
+</html>
