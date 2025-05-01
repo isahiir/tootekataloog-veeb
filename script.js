@@ -2,7 +2,7 @@ const form = document.getElementById('productForm');
 const responseMessage = document.getElementById('responseMessage');
 
 // !!! ASENDA SEE OMA GOOGLE APPS SCRIPT WEB APP URL-IGA !!!
-const SCRIPT_URL = 'SIia_Kleepida_Oma_Apps_Script_Web_App_URL';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzxSiFHySk3FM_v-AbO1piDrPIeNyIb-CSdlannU5fRWoKSQIZHDfPyg2zD820jS-k/exec';
 
 form.addEventListener('submit', (e) => {
     e.preventDefault(); // Peata vormi tavapärane saatmine (lehe uuesti laadimine)
