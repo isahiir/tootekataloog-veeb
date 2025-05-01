@@ -12,7 +12,7 @@ const imagePreview = document.getElementById('imagePreview');
 
 // --- TÄHTIS ---
 // ASENDA SEE OMA GOOGLE APPS SCRIPT WEB APP URL-IGA!
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzxSiFHySk3FM_v-AbO1piDrPIeNyIb-CSdlannU5fRWoKSQIZHDfPyg2zD820jS-k/exec'; // KASUTA SAMA URL-I, MIS ENNE
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzxSiFHySk3FM_v-AbO1piDrPIeNyIb-CSdlannU5fRWoKSQIZHDfPyg2zD820jS-k/exec'; //  KASUTA SAMA URL-I, MIS ENNE
 
 // ---------------
 
